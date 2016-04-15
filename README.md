@@ -4,6 +4,11 @@
 
 > Code replicated from [James Browne](https://github.com/unculture/vuex-example) [Vue Redux Vuex talk](https://www.youtube.com/watch?v=l1KHL-TX3qs). Uses browserify instead of webpack.
 
+#Counters
+- Displays counters
+- Counters can be incremented or decremented
+- Counters can be added
+
 ### Usage
 
 This is a project template for [vue-cli](https://github.com/vuejs/vue-cli).
