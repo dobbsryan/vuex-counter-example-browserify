@@ -2,7 +2,7 @@
 
 > A Vue.js and Vuex project
 
-> Code replicated from [James Browne](https://github.com/unculture/vuex-example) [Vue Redux Vuex talk](https://www.youtube.com/watch?v=l1KHL-TX3qs). Uses [vue-cli](http://vuejs.org/2015/12/28/vue-cli/) for browserify instead of webpack.
+> Code replicated from [James Browne](https://github.com/unculture/vuex-example) [Vue Redux Vuex talk](https://www.youtube.com/watch?v=l1KHL-TX3qs). Uses [vue-cli](https://github.com/vuejs/vue-cli) for browserify instead of webpack.
 
 #Counters
 - Displays counters
