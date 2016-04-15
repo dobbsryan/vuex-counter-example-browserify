@@ -2,8 +2,7 @@
 
 > A Vue.js and Vuex project
 
-> Code replicated from [James Browne](https://www.youtube.com/watch?v=l1KHL-TX3qs) Vue Redux Vuex talk. Uses browserify instead of webpack.
-
+> Code replicated from [James Browne](https://github.com/unculture/vuex-example) [Vue Redux Vuex talk](https://www.youtube.com/watch?v=l1KHL-TX3qs). Uses browserify instead of webpack.
 
 ### Usage
 
