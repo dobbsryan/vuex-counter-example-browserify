@@ -21,7 +21,7 @@ npm run lint
 npm test
 ```
 
-Based on [James Browne](https://www.youtube.com/watch?v=l1KHL-TX3qs) Vue Redux Vuex talk. Uses browserify instead of webpack.
+Counter example code from [James Browne](https://www.youtube.com/watch?v=l1KHL-TX3qs) Vue Redux Vuex talk. Uses browserify instead of webpack.
 
 For more information see the [docs for vueify](https://github.com/vuejs/vueify).
 
