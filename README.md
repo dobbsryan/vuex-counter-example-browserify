@@ -1,27 +1,21 @@
-# my-vuex-browserify-project
+# vuex-browserify-counter-example
 
-> A Vue.js project
+> A Vue.js and Vuex project
 
-## Build Setup
+> Code replicated from [James Browne](https://www.youtube.com/watch?v=l1KHL-TX3qs) Vue Redux Vuex talk. Uses browserify instead of webpack.
+
+
+### Usage
+
+This is a project template for [vue-cli](https://github.com/vuejs/vue-cli).
 
 ``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# lint all *.js and *.vue files
-npm run lint
-
-# run unit tests
-npm test
+$ npm install -g vue-cli
+$ vue init browserify-simple my-project
+$ cd my-project
+$ npm install
+$ npm run dev
 ```
-
-Counter example code from [James Browne](https://www.youtube.com/watch?v=l1KHL-TX3qs) Vue Redux Vuex talk. Uses browserify instead of webpack.
 
 For more information see the [docs for vueify](https://github.com/vuejs/vueify).
 
